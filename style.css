@@ -83,3 +83,9 @@ body.dark #count {
     background-color: #222;
     color: white;
 }
+
+.message {
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 10px;
+}
