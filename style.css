@@ -59,3 +59,27 @@ h1 {
 .buttons button:hover {
     opacity: 0.85;
 }
+
+/* Dark mode styles */
+body.dark {
+    background-color: #121212;
+}
+
+body.dark .container {
+    background-color: #1e1e1e;
+    color: white;
+}
+
+body.dark #count {
+    color: white;
+}
+
+.theme-btn {
+    margin-top: 15px;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #222;
+    color: white;
+}
