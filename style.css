@@ -10,13 +10,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f4f6f8;
+    background-color:blanchedalmond;
 }
 
 .container {
     background: white;
     padding: 30px;
-    border-radius: 10px;
+    border-radius: 20px;
     text-align: center;
     width: 300px;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
